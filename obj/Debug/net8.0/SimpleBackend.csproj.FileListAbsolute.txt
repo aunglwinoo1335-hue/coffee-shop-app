@@ -34,3 +34,10 @@
 /Users/aunglwinoo/Desktop/SimpleBackend/obj/Debug/net8.0/SimpleBackend.genruntimeconfig.cache
 /Users/aunglwinoo/Desktop/SimpleBackend/obj/Debug/net8.0/ref/SimpleBackend.dll
 /Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/SimpleBackend.staticwebassets.runtime.json
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/web.config
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/appsettings.Development.json
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/appsettings.json
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/SimpleBackend.deps.json
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/SimpleBackend.runtimeconfig.json
+/Users/aunglwinoo/Desktop/SimpleBackend/bin/Debug/net8.0/publish/SimpleBackend.staticwebassets.endpoints.json
+/Users/aunglwinoo/Desktop/SimpleBackend/obj/Debug/net8.0/SimpleBackend.sourcelink.json
